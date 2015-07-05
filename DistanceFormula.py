@@ -4,7 +4,7 @@ __author__ = 'Python Object Oriented programming'
 import math
 
 
-class DistanceFormula:
+class CoordinateGeometry:
     """
     Calculate the distance between 2 points in 2-dimensional space
     """
@@ -28,6 +28,6 @@ class DistanceFormula:
         self.distance = math.sqrt((self.x1 - self.x2)**2 + (self.y1 - self.y2)**2)
 
 if __name__ == "__main__":
-    p = DistanceFormula(10, 20, 30, 40)
+    p = CoordinateGeometry(10, 20, 30, 40)
     p.distance_calculation()
     print p.distance
