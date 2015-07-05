@@ -2,6 +2,11 @@ __author__ = 'Python Object Oriented Programming - Setting Constructor Values'
 
 
 class Point(object):
+    """
+    Sum of two values x and y
+    "x" integer type
+    "y" integer type
+    """
     def __init__(self, x=0, y=0):
         self.x = x
         self.y = y
