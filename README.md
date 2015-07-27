@@ -9,3 +9,4 @@ Program 4 : SettingToDefaults.py : A simple program which demonstrates the need 
 Program 5 : DistanceFormula.py   : A simple program to find the distance of 2 points in 2-Dimensional space.
 Program 6 : ImplimentingModules.py : A simple program which demonstrates the usage of module. Performed using DistanceFormula.py
 Program 7 : SimpleSQLitedbExercise.py : A simple program which demonstrates the usage of SQLite3 db.
+Program 8 : Simple_Inherritance.py : A simple program to demonstrate inherritance.
